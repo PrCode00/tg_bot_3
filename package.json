@@ -1,0 +1,22 @@
+{
+  "name": "start_start",
+  "version": "1.0.0",
+  "description": "Telegram_Bot",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git"
+  },
+  "keywords": [
+    "Bot"
+  ],
+  "author": "Petru Reaboi (Patron209@mail.ru)",
+  "license": "ISC",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.54.0",
+    "nodemon": "^2.0.12"
+  }
+}
